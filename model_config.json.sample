@@ -18,7 +18,7 @@
       }
     },
     "qwen.qwen3-235b-a22b-2507-v1:0": {
-      "model_id": "deepseek.v3-v1:0",
+      "model_id": "qwen.qwen3-235b-a22b-2507-v1:0",
       "region_name": "ap-northeast-1",
       "temperature": 0.7,
       "top_p": 0.8
